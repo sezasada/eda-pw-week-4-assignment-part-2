@@ -5,3 +5,10 @@ header {
     background-color:coral;
     color: bisque;
 }
+img {
+    height: 500px;
+}
+h3 {
+    background-color: firebrick;
+    color: beige;
+}
